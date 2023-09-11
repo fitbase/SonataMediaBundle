@@ -1,5 +1,5 @@
 {
-    "name": "fitbase/media-bundle",
+    "name": "sonata-project/media-bundle",
     "type": "symfony-bundle",
     "description": "Symfony SonataMediaBundle",
     "keywords": [
