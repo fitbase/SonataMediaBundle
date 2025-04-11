@@ -1,2 +1,4 @@
 sonar.projectKey=
 sonar.qualitygate.wait=true
+sonar.projectKey=
+sonar.qualitygate.wait=true
